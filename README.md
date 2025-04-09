@@ -33,16 +33,30 @@
 <h3> 📚 Recent Blog</h3>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- <h4>🔧 大数据框架</h4>
+- <h4>🔧 大数据框架（BigData） & 特征工程（Feature Engineering）</h4>
 
-  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Flink' target='_blank'>Flink 源码研读</a>
-  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Spark' target='_blank'>Spark 源码研读</a>
-  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Flink/Calcite%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md' target='_blank'>Calcite 源码研读</a>
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Flink' target='_blank'>Flink 源码研读（How to Implement）</a>
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Spark' target='_blank'>Spark 源码研读（How to Implement）</a>
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Flink/Calcite%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md' target='_blank'>Calcite 源码研读（How to Implement）</a>
 
-- <h4>🤖 深度学习框架</h4>
+- <h4>🤖 深度学习框架（DeepLearning Framework）</h4>
 
-  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Pytorch/PaddlePaddle%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md' target='_blank'> PaddlePaddle 源码研读</a>
-  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Pytorch/Pytorch%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md' target='_blank'> Pytorch 源码研读</a>
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/PaddlePaddle' target='_blank'> PaddlePaddle 源码研读（How to Implement）</a>
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Pytorch/Pytorch%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md' target='_blank'> Pytorch 源码研读（How to Implement）</a>
+  - <a href='' target='_blank'> llama 源码研读（How to Implement） - PRIVATE</a>
+  - <a href='' target='_blank'> triton 源码研读（How to Implement）- PRIVATE</a>
+  - <a href='' target='_blank'> vllm 源码研读（How to Implement）- PRIVATE</a>
+
+- <h4>🤖 深度学习模型（DeepLearning Model）</h4>
+
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/MachineLearning/%E7%AE%97%E6%B3%95.mdd' target='_blank'> 基础模型实现（Building basic model from scratch）</a>
+  - <a href='' target='_blank'> 论文模型复现（Papers with code）- PRIVATE</a>
+
+- <h4>🤖 模型应用（Mode Application）</h4>
+
+  - <a href='' target='_blank'> 在线特征架构（Online Feature Architecture）- PRIVATE</a>
+  - <a href='' target='_blank'> 分布式推理（Distributed Inference）- PRIVATE</a>
+  - <a href='' target='_blank'> 搜广推模型优化（Search, Recommendation, and Advertising Model Optimization）- PRIVATE</a>
 
 <!-- - <h4>🤔 深度学习思考</h4>
 
