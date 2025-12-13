@@ -35,6 +35,7 @@
 
 - <h4>🔧 大数据框架（BigData） & 特征工程（Feature Engineering）</h4>
 
+  - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Velox' target='_blank'>Velox 源码研读（How to Implement）</a>
   - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Arrow' target='_blank'>Arrow 源码研读（How to Implement）</a>
   - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Flink' target='_blank'>Flink 源码研读（How to Implement）</a>
   - <a href='https://github.com/MagnetoWang/ideas-I-guess/tree/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/Spark' target='_blank'>Spark 源码研读（How to Implement）</a>
@@ -59,7 +60,14 @@
   - <a href='' target='_blank'> 分布式推理（Distributed Inference）- PRIVATE</a>
   - <a href='' target='_blank'> 搜广推模型优化（Search, Recommendation, and Advertising Model Optimization）- PRIVATE</a>
 
-- <h4>🤖 业务 </h4>
+
+- <h4>🤖 AI应用（AI Application） </h4>
+  
+  - 图生视频
+  - 视频编辑
+  - 智能硬件
+
+- <h4>🤖 业务分析（Business Analysis） </h4>
 
   - <a href='' target='_blank'> 流量 & 选品 & 用户分析- PRIVATE</a>
   - <a href='' target='_blank'> 供应链分析- PRIVATE</a>
